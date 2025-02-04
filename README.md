@@ -2,13 +2,11 @@
 **Proyek Sprint 8 Data Analyst TripleTen**
 
 ## 📌 Deskripsi
-Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko online "Apa Hardware". Analisis dilakukan dengan dataset **ecommerce_dataset_us.csv** yang berisi transaksi pelanggan.
+Proyek ini bertujuan untuk meningkatkat pendapatan di sebuah toko online besar. bersama tim pemasaran telah menyusun daftar hipotesis untuk meprioritaskan sebuah hipotesis dan menjalankan hipotesis tersebut dengan melakukan A/B Testing. Data yang digunakan ada tiga, yang pertama dataset yang memuat daftar hipotesisi beserta skala-skala dalam parameter Reach, Impact, Confidence, dan Effort. Sedangkan dataset kedua berisi data pesanan dan dataset ketiga berisi data kunjungan. Kedua dataset tersebut merupakan hasil dari percobaan A/B testing di bulan Agustus 2019.
 
 ## 🎯 Tujuan
-- Mengetahui produk paling laku dan paling tidak laku.
-- Menentukan tren pembelian berdasarkan waktu.
-- Membuat model prediksi penjualan menggunakan machine learning.
-- Mengelompokkan produk berdasarkan kategori menggunakan clustering.
+- Memprioritaskan sebuah hipotesis dari daftar hipotesis yang telah disusun.
+- Menjalankan hipotesis tersebut dengan melakukan A/B testing..
 - Memberikan rekomendasi strategi bisnis.
 
 ## 🔄 Tahapan Analisis
